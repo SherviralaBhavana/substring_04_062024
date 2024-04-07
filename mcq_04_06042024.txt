@@ -1,0 +1,38 @@
+
+1.What is the correct way to create a new empty string in java?
+
+A.String emptyString = "";
+B.String emptyString = new String();
+C.String emptyString = " ";
+D.String emptyString = null;
+E.Both A and B
+  //E
+
+
+2.Which of the following methods is used to compare two strings for equality in java?
+A.equals()
+B.compareTo()
+C.equalsIgnoreCase()
+D.compare()
+  //A
+
+
+3.How do you convert a string to lowercase in java?
+A.str.toLower()
+B.str.toLowerCase()
+C.str.convertToLower()
+D.str.makeLowerCase()
+  //B
+
+4.In java,what is the result of the expression"HELLO".substring(1,4)
+A."Hel"
+B."H"
+C."ell"
+D."llo"
+ //c
+
+5.Which of the following is true about java strings?
+A.Strings are mutable.
+B.Strings can contain only letters.
+C.Strings can have a null value.
+D.Strings are implemented as arrays of characters.
